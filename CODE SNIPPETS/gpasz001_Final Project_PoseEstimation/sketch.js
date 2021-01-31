@@ -13,13 +13,13 @@
 // 3: Model Deployment: https://editor.p5js.org/codingtrain/sketches/nejAYCA6N
 
 
-// Altered the code from above mentioned source for the Machine Learning Final Project Assignment
+// Altered the code from above mentioned source for Computational Arts -  Final Project Assignment
 
 // Added pixel processing, sound "synthesis", and my own training model for pose estimation with regression.
 // I left the training, making a model and loading model parts of the code in this sketch, as a means of further experimentation.
 // gpasz001@gold.ac.uk – Gabor Paszti
 
-//Please wait until the scetch fully loads, as sometimes the sound hangs if we move the mouse before it loads the content. Reload id=f necessary. 
+//Please wait until the scetch fully loads, as sometimes the sound hangs if we move the mouse before it loads the content. Reload if necessary. 
 
 
 //// pose estimation variables
