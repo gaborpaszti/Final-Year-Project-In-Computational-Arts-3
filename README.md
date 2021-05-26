@@ -10,6 +10,8 @@ The final audio-visual documentation is displayed here: https://third.goldcompar
 
 More on the process can be found here: http://www.gaborpaszti.com/dac-final-year-project-in-computational-art/
 
+The soundtrack for this project can be found here: https://soundcloud.com/user-251848331/flow-of-glitches
+
 The programming language used in this project is JavaScript, MAX MSP for audio-visual production and Adobe Premiere Pro for post production. 
 
 I explored various machine learning techniques listed bellow, however I used pose estimation (poseNet) for conveying my vision for this project. This was the most economic and versatile option. I could determine position of the dancer along with isolating body postures and movements. I used regression mode to teach a model three different poses, which I connected to influence the background colour. On the mobile application I did a similar approach to connect the key points of the pose estimation to the sound synthesis variables in MAX MSP, however this time without a pretrained model, but only for tracking via "poseHook OSC" mobile application.
